@@ -40,7 +40,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [PolyCafe ☕](https://github.com/hien170108/PolyCafe) | Vietnamese Java Swing app for cafe sales management | Java, Swing, SQL |
-| [Portfolio Website](https://quanghien.site) | Personal static site to showcase your work | HTML, CSS, JS |
+| [Portfolio Website](https://quanghien.site) | Personal static site to showcase my work | HTML, CSS, JS |
 | [Chua&Ngọt Website](https://github.com/hien170108/chuangot-website) | A website for Chua&Ngọt brand | HTML, CSS, JS |
 
 ---
@@ -48,7 +48,7 @@
 ## 📫 How to reach me
 
 - 📧 Email: hiennq.work@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/quang-hien-ngo-741163369/)
+- 💼 LinkedIn: [linkedin.com/in/quanghienngo](https://linkedin.com/in/quang-hien-ngo-741163369/)
 - 🌐 Portfolio: [quanghien.site](https://quanghien.site)
 
 ---
