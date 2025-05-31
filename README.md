@@ -39,9 +39,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [PolyCafe ☕]([https://github.com/yourusername/PolyCafe](https://github.com/hien170108/PhanMemQuanLyBanHangPolyCafe)) | Vietnamese Java Swing app for cafe sales management | Java, Swing, SQL |
-| [Todo App](https://github.com/yourusername/todoapp) | Basic full-stack app with REST API | Spring Boot, MySQL |
+| [PolyCafe ☕](https://github.com/hien170108/PolyCafe) | Vietnamese Java Swing app for cafe sales management | Java, Swing, SQL |
 | [Portfolio Website](https://quanghien.site) | Personal static site to showcase your work | HTML, CSS, JS |
+| [Chua&Ngọt Website](https://github.com/hien170108/chuangot-website) | A website for Chua&Ngọt brand | HTML, CSS, JS |
 
 ---
 
