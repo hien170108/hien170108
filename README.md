@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ngo Quang Hien</h1>
 <p align="center">
   🎓 Fresh Graduate | 💻 Aspiring Software Engineer | ☕ Java Enthusiast
 </p>
@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-- 🎓 I recently graduated from **[Your University]** in **[Your Major]**
+- 🎓 I recently graduated from **FPT Polyschool** in **Software Development**
 - 💡 Passionate about building real-world applications with clean code and solid architecture
 - 📚 Currently learning **Spring Boot**, **REST API**, and **DevOps Basics**
 - 🌱 Always curious to learn new tech and best practices
@@ -39,17 +39,17 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [PolyCafe ☕](https://github.com/yourusername/PolyCafe) | Java Swing app for cafe sales management | Java, Swing, SQL |
+| [PolyCafe ☕]([https://github.com/yourusername/PolyCafe](https://github.com/hien170108/PhanMemQuanLyBanHangPolyCafe)) | Vietnamese Java Swing app for cafe sales management | Java, Swing, SQL |
 | [Todo App](https://github.com/yourusername/todoapp) | Basic full-stack app with REST API | Spring Boot, MySQL |
-| [Portfolio Website](https://yourdomain.com) | Personal static site to showcase your work | HTML, CSS, JS |
+| [Portfolio Website](https://quanghien.site) | Personal static site to showcase your work | HTML, CSS, JS |
 
 ---
 
 ## 📫 How to reach me
 
-- 📧 Email: [your.email@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🌐 Portfolio: [yourdomain.com](https://yourdomain.com) *(optional)*
+- 📧 Email: [hiennq.work@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/quang-hien-ngo-741163369/)
+- 🌐 Portfolio: [quanghien.site](https://quanghien.site)
 
 ---
 
