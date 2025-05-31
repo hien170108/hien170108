@@ -47,7 +47,7 @@
 
 ## 📫 How to reach me
 
-- 📧 Email: [hiennq.work@gmail.com]
+- 📧 Email: hiennq.work@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/quang-hien-ngo-741163369/)
 - 🌐 Portfolio: [quanghien.site](https://quanghien.site)
 
