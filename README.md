@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngo Quang Hien</h1>
 <p align="center">
-  🎓 Fresh Graduate | 💻 Aspiring Software Engineer | ☕ Java Enthusiast
+  🎓 Currently studying | 💻 Aspiring Software Engineer | ☕ Java Enthusiast
 </p>
 
 ---
