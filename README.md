@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-- 🎓 I recently graduated from **FPT Polyschool** in **Software Development**
+- 🎓 I'm studying **Software Development** in **FPT Polyschool**
 - 💡 Passionate about building real-world applications with clean code and solid architecture
 - 📚 Currently learning **Spring Boot**, **REST API**, and **DevOps Basics**
 - 🌱 Always curious to learn new tech and best practices
